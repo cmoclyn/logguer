@@ -1,7 +1,7 @@
 # Logguer for PHP 5.6
 
-![build](https://travis-ci.org/cmoclyn/logguer.svg?branch=master-5.6)
-[![codecov](https://codecov.io/gh/cmoclyn/logguer/branch/master-5.6/graph/badge.svg)](https://codecov.io/gh/cmoclyn/logguer)
+![build](https://travis-ci.org/cmoclyn/logguer.svg?branch=master-5)
+[![codecov](https://codecov.io/gh/cmoclyn/logguer/branch/master-5/graph/badge.svg)](https://codecov.io/gh/cmoclyn/logguer)
 
 
 ## Documentation
