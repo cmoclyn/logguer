@@ -1,19 +1,10 @@
 {
     "name": "cmoclyn/logguer",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Cédric Moclyn",
             "email": "cedric@moclyn.fr"
         }
-    ],
-    "require": {
-        "php": ">=7.1.9"
-    },
-    "autoload": {
-        "psr-4": {
-            "Logguer\\": "src/Logguer",
-            "Exceptions\\": "src/Exceptions",
-            "Tests\\": "Tests"
-        }
-    }
+    ]
 }
