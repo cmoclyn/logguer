@@ -1,9 +1,11 @@
-# Logguer for PHP
+# Logguer for PHP 5.6
+
+![build](https://travis-ci.org/cmoclyn/logguer.svg?branch=master-5.6)
+[![codecov](https://codecov.io/gh/cmoclyn/logguer/branch/master-5.6/graph/badge.svg)](https://codecov.io/gh/cmoclyn/logguer)
+
 
 ## Documentation
 --------------
-
-There is 2 versions of this Logguer, one for PHP 7 (branch master-7) and one for PHP 5.6 (branch master-5.6)
 
 ### Init
 

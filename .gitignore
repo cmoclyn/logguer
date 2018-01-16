@@ -1,0 +1,6 @@
+/vendor/
+/logs/
+/Tests/coverage/
+/Tests/logs/
+index.php
+coverage.xml
